@@ -18,3 +18,4 @@ organizado de evolução técnica.
 - Commits frequentes e objetivos
 - Organização progressiva
 - Código simples e funcional
+- 
