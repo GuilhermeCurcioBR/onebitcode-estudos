@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário no HTML</title>
+  </head>
+  <body>
+    <h1>Formulário no HTML</h1>
+
+    <form action="/submit" method="post">
+      <label for="nome">Nome:</label><br />
+      <input type="text" id="nome" name="nome" required /><br /><br />
+
+      <label for="email">Email:</label><br />
+      <input type="email" id="email" name="email" required /><br /><br />
+
+      <label for="mensagem">Mensagem:</label><br />
+      <textarea
+        id="mensagem"
+        name="mensagem"
+        rows="4"
+        cols="50"
+        required
+      ></textarea
+      ><br />
+
+      <input type="submit" value="Enviar" />
+    </form>
+    <br />
+    <form action="http://google.com/search" method="get" target="_blank">
+      <label for="q">Pesquisar no Google:</label><br /><br />
+      <input type="text" id="q" name="q" required />
+      <input type="submit" value="Pesquisar" />
+    </form>
+  </body>
+</html>
