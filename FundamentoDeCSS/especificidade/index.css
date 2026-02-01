@@ -1,0 +1,11 @@
+#azul {
+  color: blue;
+}
+
+h1[class="verde"] {
+  color: #ff00;
+}
+
+h1 {
+  color: red !important;
+}

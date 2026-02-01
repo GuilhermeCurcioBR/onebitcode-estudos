@@ -1,0 +1,30 @@
+:root {
+  --cor-primaria: #3c59e7;
+  --cor-clara: #eaeaea;
+  --cor-escuro: #232323;
+  --preenchimento-pequeno: 0.25rem 1rem;
+  --preenchimento-medio: 2rem;
+  --preenchimento-grande: 3rem;
+}
+
+header {
+  background-color: var(--cor-escuro);
+  color: var(--cor-clara);
+  padding: var(--preenchimento-pequeno);
+}
+
+section {
+  background-color: var(--cor-primaria);
+  color: var(--cor-clara);
+  padding: var(--preenchimento-medio);
+}
+
+div {
+  background-color: var(--cor-clara);
+  color: var(--cor-escuro);
+  padding: var(--preenchimento-grande);
+}
+
+.red-box {
+  --cor-clara: #e73c3c;
+}
