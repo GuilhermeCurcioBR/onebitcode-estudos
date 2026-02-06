@@ -26,5 +26,5 @@ organizado de evolução técnica.
 
 | Tecnologia                                                                                                |      Status      | Nível de Conclusão                     |
 | :-------------------------------------------------------------------------------------------------------- | :--------------: | :------------------------------------- |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |  **Concluído**   | ![100%](https://geps.dev/progress/100) |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)    | **Em Andamento** | ![10%](https://geps.dev/progress/10)   |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |  **Concluído** | ![100%](https://geps.dev/progress/100) |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)    |  **Concluído** | ![100%](https://geps.dev/progress/100) |
